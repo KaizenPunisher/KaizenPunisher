@@ -12,12 +12,12 @@ Estou construindo meu projeto pessoal com NextJS no endereço www.achetudotirade
 
 ### Habilidades Front-end
 
-[![Habilidade com - ](https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,svg,figma,ai,ps)](https://skillicons.dev)
+[![Habilidade com - ](https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,svg,figma,ai,ps)](https://www.achetudotiradentes.com.br)
 
 ### Habilidades Back-end
 
-[![Habilidade com - ](https://skillicons.dev/icons?i=nodejs,nextjs,postgres,mysql,aws,netlify,vercel)](https://skillicons.dev)
+[![Habilidade com - ](https://skillicons.dev/icons?i=nodejs,nextjs,postgres,mysql,aws,netlify,vercel)](https://www.achetudotiradentes.com.br)
 
 ### IDE
 
-[![Habilidade com - ](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Habilidade com - ](https://skillicons.dev/icons?i=vscode)](https://www.achetudotiradentes.com.br)
