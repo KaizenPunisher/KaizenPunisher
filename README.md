@@ -17,6 +17,6 @@ Estou construindo meu projeto pessoal com NextJS no endereço www.achetudotirade
 
 [![Habilidade com - ](https://skillicons.dev/icons?i=nodejs,nextjs,postgres,aws)](https://skillicons.dev)
 
-### IDEs
+### IDE
 
 [![Habilidade com - ](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
