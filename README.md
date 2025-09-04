@@ -4,7 +4,7 @@ Meu objetivo profissional é, projeto e criação de sites e aplicativos web com
 
 CONTATO: oscar.gomes.junior@hotmail.com
 
-Trabalhei apenas com agências pequenas sem designers patterns. Mas tenho conhecimento básico como MVC, boas praticas de programação e escalabilidade estrutural com micro serviços. Minha especialização hoje é NextJS para o modelo Full Stack, React e seus componentes para Front-end, PostgreSQL e ORMs para conexão ao Banco de Dados, e Typescrip para dar robustez na tipagem garantido a persistência e validação.
+Trabalhei apenas com agências pequenas sem designers patterns. Mas tenho conhecimento básico como MVC, boas praticas de programação e escalabilidade estrutural com micro serviços. Minha especialização hoje é NextJS para o modelo Full Stack, React e seus componentes para Front-end, PostgreSQL e ORMs para conexão ao Banco de Dados, e Typescript para dar robustez na tipagem garantido a persistência e validação.
 
 Acredito que a tecnologia é fator preponderante e estratégico para atingir soluções que visam facilitar a vida das pessoas. Programar e fazer designer é minha paixão, e me sinto realizado com a produtividade constante de um trabalho bem feito em equipe.
 
