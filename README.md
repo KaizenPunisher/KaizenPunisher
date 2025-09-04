@@ -11,11 +11,11 @@ Estou construindo meu projeto pessoal com NextJS no endereço www.achetudotirade
 
 ### Habilidades Front-end
 
-[![Habilidade com - ](https://skillicons.dev/icons?i=js,ts,react,html,css,figma,ai,ps)](https://skillicons.dev)
+[![Habilidade com - ](https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,svg,figma,ai,ps)](https://skillicons.dev)
 
 ### Habilidades Back-end
 
-[![Habilidade com - ](https://skillicons.dev/icons?i=nodejs,nextjs,postgres,aws)](https://skillicons.dev)
+[![Habilidade com - ](https://skillicons.dev/icons?i=nodejs,nextjs,postgres,mysql,aws,netlify,vercel)](https://skillicons.dev)
 
 ### IDE
 
