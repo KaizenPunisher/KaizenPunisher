@@ -9,4 +9,6 @@ Acredito que a tecnologia é fator prepoderante e estratégico para atingir solu
 
 Estou construindo meu projeto pessoal com NextJS no endereço www.achetudotiradentes.com.br e tenho alguns modelos de exercicios de aprendizagem como um SaaS para clinicas e um E-commercer com integração ao Stripe
 
---- [![Habilidade com - ](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### Habilidades Front-end
+
+[![Habilidade com - ](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
