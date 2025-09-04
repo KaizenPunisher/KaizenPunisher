@@ -8,3 +8,5 @@ Minha especialização hoje é NextJS para o modelo Full Stack, React e seus com
 Acredito que a tecnologia é fator prepoderante e estratégico para atingir soluções que visam facilitar a vida das pessoas. Programar e fazer designer é minha paixão, e me sinto realizado com a produtividade constatante de um trabalho bem feito em equipe.
 
 Estou construindo meu projeto pessoal com NextJS no endereço www.achetudotiradentes.com.br e tenho alguns modelos de exercicios de aprendizagem como um SaaS para clinicas e um E-commercer com integração ao Stripe
+
+--- [![Habilidade com - ](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
