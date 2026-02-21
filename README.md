@@ -16,7 +16,7 @@ Estou construindo meu projeto pessoal com NextJS no endereço www.achetudotirade
 
 ### Habilidades Back-end
 
-[![Habilidade com - ](https://skillicons.dev/icons?i=nodejs,nextjs,postgres,mysql,aws,netlify,vercel,docker)](https://www.achetudotiradentes.com.br)
+[![Habilidade com - ](https://skillicons.dev/icons?i=nodejs,nextjs,postgres,mysql,aws,netlify,vercel,docker,go)](https://www.achetudotiradentes.com.br)
 
 ### IDE
 
